@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://www.linkedin.com/in/marcus-mease-3536b5126/
+[linkedin]: www.linkedin.com/in/marcus-mease-3536b5126
