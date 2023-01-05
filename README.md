@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MMease/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MMease/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Configuring VPN within Azure VM](https://github.com/MMease/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
+  - [Configuring VPN within Azure VM](https://github.com/MMease/Virtual-Private-Netwroks-VPNs-)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Marcus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
