@@ -1,4 +1,4 @@
-  <h1>👨‍💻 Hi, I'm Marcus, an IT Professional, and these are my Information Technology Projects 👨‍💼</h1>
+  <h1>👨‍💻 Hi, I'm Marcus, an IT Professional, and these are my IT Projects 👨‍💼</h1>
   <ul>
     <li>
       <strong>osTicket (Help Desk Ticketing System) 🎫</strong>
