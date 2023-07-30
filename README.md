@@ -1,17 +1,40 @@
-<h1>Hi, I'm Marcus, an <a href="https://www.linkedin.com/in/marcus-mease/">IT Professional</a>☺</h1>
+  <h1>👨‍💻 Hi, I'm Marcus, an IT Professional, and these are my Information Technology Projects 👨‍💼</h1>
+  <ul>
+    <li>
+      <strong>osTicket (Help Desk Ticketing System) 🎫</strong>
+      <ul>
+        <li><a href="https://github.com/MMease/osticket-prereqs">🚀 Prerequisites and Installation</a></li>
+        <li><a href="https://github.com/MMease/post-install-config">🔧 Post-Installation Configuration</a></li>
+        <li><a href="https://github.com/MMease/ticket-lifecycle">📝 Ticket Lifecycle Examples</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Microsoft Azure ☁️</strong>
+      <ul>
+        <li><a href="https://github.com/MMease/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-">🏢 Configuring On-premises Active Directory within Azure VMs</a></li>
+        <li><a href="https://github.com/MMease/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines">🔒 Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>Virtual Private Networks (VPNs) 🔐</strong>
+      <ul>
+        <li><a href="https://github.com/MMease/Virtual-Private-Netwroks-VPNs-">🌐 Configuring VPN within Azure VM</a></li>
+      </ul>
+    </li>
+  </ul>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+  <h2>🔒💻 Cybersecurity Projects 🛡️</h2>
+  <ul>
+    <li>
+      <strong>Nessus Vulnerability Scanner 🕵️</strong>
+      <ul>
+        <li><a href="https://github.com/MMease/Vulnerability-Scanner-Deployment-">🔍 Vulnerability Scanner Deployment</a></li>
+      </ul>
+    </li>
+  </ul>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MMease/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MMease/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MMease/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MMease/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MMease/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
-- <b>Virtual Private Networks (VPNs)</b>
-  - [Configuring VPN within Azure VM](https://github.com/MMease/Virtual-Private-Netwroks-VPNs-)
-
-<h3>🔒💻 Cybersecurity Projects:</h3>
-- <b>Vulnerability Scanner Deployment </b>
- 
+  <h2>Lets Stay Connected! 🤝</h2>
+  LinkedIn: <a href="https://www.linkedin.com/in/marcus-mease/"> 📱</a>
+</div>
+</body>
+</html>
