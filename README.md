@@ -36,7 +36,7 @@
     <li>
       <strong>HoneyPot Hosted in Cloud ☁️ </strong>
       <ul>
-        <li><a href="https://github.com/MMease/HoneyPot">🔍 HoneyPot Hosted in Azure </a></li>
+        <li><a href="https://github.com/MMease/HoneyPot">🍯 HoneyPot Hosted in Azure </a></li>
       </ul>
     </li>
   </ul>
