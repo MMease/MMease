@@ -32,6 +32,14 @@
       </ul>
     </li>
   </ul>
+  <ul>
+    <li>
+      <strong>HoneyPot Hosted in Cloud ☁️ </strong>
+      <ul>
+        <li><a href="https://github.com/MMease/HoneyPot">🔍 HoneyPot Hosted in Azure </a></li>
+      </ul>
+    </li>
+  </ul>
 
   <h2>Lets Stay Connected! 🤝</h2>
   LinkedIn: <a href="https://www.linkedin.com/in/marcus-mease/"> 📱</a>
