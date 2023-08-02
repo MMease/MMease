@@ -39,6 +39,12 @@
         <li><a href="https://github.com/MMease/HoneyPot">🍯 HoneyPot Hosted in Azure </a></li>
       </ul>
     </li>
+    <li>
+      <strong>Password Manger Hosted in Cloud ☁️ </strong>
+      <ul>
+        <li><a href="https://github.com/MMease/Password-Manager">Password Manager Hosted in AWS </a></li>
+      </ul>
+    </li>
   </ul>
 
   <h2>Lets Stay Connected! 🤝</h2>
