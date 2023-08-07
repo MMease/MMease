@@ -45,6 +45,12 @@
         <li><a href="https://github.com/MMease/Password-Manager">Password Manager Hosted in AWS </a></li>
       </ul>
     </li>
+    <li>
+      <strong>SIEM using Azure Sentinel w/ Live Map  ☁️ </strong>
+      <ul>
+        <li><a href="https://github.com/MMease/Microsoft-Sentinel-SIEM">Azure Sentinel Setup </a></li>
+      </ul>
+    </li>
   </ul>
 
   <h2>Lets Stay Connected! 🤝</h2>
