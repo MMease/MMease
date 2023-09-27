@@ -46,9 +46,15 @@
       </ul>
     </li>
     <li>
-      <strong>SIEM using Azure Sentinel w/ Live Map 🗺️</strong>
+      <strong>Azure Sentinel w/ Live Attack Map 🗺️</strong>
       <ul>
         <li><a href="https://github.com/MMease/Microsoft-Sentinel-SIEM">Azure Sentinel Setup </a></li>
+      </ul>
+    </li>
+     <li>
+      <strong>SIEM Implementation in Azure Cloud </strong>
+      <ul>
+        <li><a href=""> SOC using Azure </a></li>
       </ul>
     </li>
   </ul>
