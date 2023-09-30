@@ -54,7 +54,7 @@
      <li>
       <strong>SIEM Implementation in Azure Cloud </strong>
       <ul>
-        <li><a href=""> SOC using Azure </a></li>
+        <li><a href="https://github.com/MMease/SOC-in-Azure"> SOC using Azure </a></li>
       </ul>
     </li>
   </ul>
