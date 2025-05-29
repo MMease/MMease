@@ -59,6 +59,19 @@
     </li>
   </ul>
 
+ <h2>Splunk Projects</h2>
+  <ul>
+    <li>
+      <strong>Deploying Splunk Enterprise on AWS LightSail Insatnce: A Step-by-Step Guide</strong>
+      <ul>
+        <li><a href="">🔍  </a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+
+  </ul>
+
   <h2>Lets Stay Connected! 🤝</h2>
   LinkedIn: <a href="https://www.linkedin.com/in/marcus-mease/"> 📱</a>
 </div>
