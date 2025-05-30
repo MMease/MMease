@@ -64,7 +64,7 @@
     <li>
       <strong>Deploying Splunk Enterprise on AWS LightSail Insatnce: A Step-by-Step Guide</strong>
       <ul>
-        <li><a href="">🔍  </a></li>
+        <li><a href="https://github.com/MMease/Splunk-Instance"> Splunk Enertpise Deployment </a></li>
       </ul>
     </li>
   </ul>
