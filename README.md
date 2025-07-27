@@ -72,7 +72,7 @@
     <li>
       <strong>Splunk Universal Forwarder Setup</strong>
       <ul>
-        <li><a href="https://github.com/MMease/Splunk-Instance"> Splunk UF </a></li>
+        <li><a href="https://github.com/MMease/Universal-Forwarder"> Splunk UF </a></li>
       </ul>
     </li>
   </ul>
